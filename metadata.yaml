@@ -1,0 +1,41 @@
+_repo: What-Sami-Sings-with-the-Birds_9482
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Copeland, Charles
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '3033'
+    url: http://www.gutenberg.org/2009/agents/3033
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Copeland_(illustrator)
+  translator:
+    agent_name: Dole, Helen B.
+    gutenberg_agent_id: '3032'
+    url: http://www.gutenberg.org/2009/agents/3032
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Spyri, Johanna Heusser
+    - Heusser, Johanna Louise
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Switzerland -- Juvenile fiction'
+- GITenberg
+title: What Sami Sings with the Birds
+url: http://www.gutenberg.org/ebooks/9482
