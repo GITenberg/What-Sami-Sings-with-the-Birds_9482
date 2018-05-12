@@ -1,5 +1,5 @@
 _repo: What-Sami-Sings-with-the-Birds_9482
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Copeland, Charles
@@ -12,6 +12,9 @@ contributor:
     agent_name: Dole, Helen B.
     gutenberg_agent_id: '3032'
     url: http://www.gutenberg.org/2009/agents/3032
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spyri, Johanna
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2491
     wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9482#What-Sami-Sings-with-the-Birds
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
